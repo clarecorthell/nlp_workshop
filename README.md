@@ -3,7 +3,7 @@ Natural Language Processing Workshop (thinkingmachin.es/events)
 
 Clare Corthell, Luminant Data
 
-[Thinking Machines](http://thinkingmachin.es), Manila
+[Thinking Machines](http://thinkingmachin.es)' Humans + Machines Conference, Manila
 
 18 February 2016
 
